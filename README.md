@@ -9,3 +9,7 @@
 </div>
 
 <hr />
+
+- 👀 I’m interested in **Web Development**, **AI** and **REST API**.
+- 🌱 I’m currently learning **the basics of being a front-end developer**.
+- 💞️ I’m looking to collaborate on something new and disrupting.
