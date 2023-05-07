@@ -14,7 +14,9 @@
 - 🌱 I’m currently learning **ReactJS**.
 - 💞️ I’m looking to collaborate on something new and disrupting.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnarida08theme=tokyonight" alt="johnarida08" /></p>
+<hr />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnarida08theme=tokyonight" alt="johnmarky08" /></p>
 
 <hr />
 
