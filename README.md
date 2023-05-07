@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m John Marky</h1>
-<p align="center">A passionate student who loves Programming mote than anything!</p>
+<p align="center">A passionate student who loves Programming more than anything!</p>
 
 <div align="center" style="margin-bottom: 10px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
