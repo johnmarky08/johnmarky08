@@ -16,7 +16,7 @@
 
 <hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnarida08theme=tokyonight" alt="johnmarky08" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnarida08&theme=tokyonight" alt="johnmarky08" /></p>
 
 <hr />
 
