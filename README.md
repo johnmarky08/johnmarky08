@@ -13,3 +13,5 @@
 - 👀 I’m interested in **Web Development**, **AI** and **REST API**.
 - 🌱 I’m currently learning **ReactJS**.
 - 💞️ I’m looking to collaborate on something new and disrupting.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmarky08&show_icons=true&locale=en" alt="johnmarky08" /></p>
