@@ -6,6 +6,7 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="js" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" alt="npm" style="max-width: 100%;">
@@ -14,7 +15,7 @@
 
 <hr />
 
-- 👀 I’m interested in **Web Development**, **AI** and **REST API**.
+- 👀 I’m interested in **Web Development**, **AI**, **Software/Applications**, **Console Applications** and **REST API**.
 - 🌱 I’m currently learning **ReactJS**.
 - 💞️ I’m looking to collaborate on something new and disrupting.
 
