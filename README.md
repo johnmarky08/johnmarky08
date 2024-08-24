@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://johnmarky-dev.netlify.app" target="_blank">Hi, I’m John Marky</a></h1>
+<a href="https://johnmarky-dev.netlify.app" target="_blank"><h1 align="center">Hi, I’m John Marky</h1></a>
 <p align="center">A passionate student who loves Programming more than anything!</p>
 
 <div align="center" style="margin-bottom: 10px">
