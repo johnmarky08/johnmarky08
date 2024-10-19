@@ -10,7 +10,6 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" alt="npm" style="max-width: 100%;">
-  
 </div>
 
 <hr />
@@ -21,8 +20,4 @@
 
 <hr />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=6" alt="johnmarky08" /></p>
-
-<hr />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnmarky08&show_icons=true&locale=en" alt="johnmarky08" /></p>
+<div align="center" style="margin-bottom: 10px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=6" alt="johnmarky08" /></div>
