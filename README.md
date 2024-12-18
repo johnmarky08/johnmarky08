@@ -20,4 +20,4 @@
 
 <hr />
 
-<div align="center" style="margin-bottom: 10px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=10" alt="johnmarky08" /></div>
+<div align="center" style="margin-bottom: 10px"><img align="center" src="" alt="johnmarky08" /></div>
