@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m [John Marky](https://johnmarky-dev.netlify.app)
 
-Fostering creativity and exploring innovative methods through programming while growing as a committed student of technology.
+___"Fostering creativity and exploring innovative methods through programming while growing as a committed student of technology."___
 
 </div>
 
