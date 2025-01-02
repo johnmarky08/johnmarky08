@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m [John Marky](https://johnmarky-dev.netlify.app)
 
-A passionate student who loves Programming more than anything!
+Fostering creativity and exploring innovative methods through programming while growing as a committed student of technology.
 
 </div>
 
@@ -20,12 +20,8 @@ A passionate student who loves Programming more than anything!
 
 <div align="center">
 
-![HTML](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg)
-![CSS3](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
-![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
-![C# .NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
-![React](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
-![Node.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)
+![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,nextjs,nodejs,express,mongodb,mysql)
+
 
 </div>
 
@@ -35,13 +31,7 @@ A passionate student who loves Programming more than anything!
 
 <div align="center">
 
-![NPM](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg)
-![Nuget](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/nuget.svg)
-![Android Studio](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/android_studio.svg)
-![Visual Studeo](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/visualstudio.svg)
-![Visual Studio Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/visualstudio_code.svg)
-![Powershell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/powershell.svg)
-![Bash](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/bash.svg)
+![Tools Or Services](https://skillicons.dev/icons?i=git,npm,dotnet,androidstudio,visualstudio,vscode,netlify,vercel)
 
 </div>
 
