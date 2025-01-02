@@ -6,15 +6,11 @@ Fostering creativity and exploring innovative methods through programming while 
 
 </div>
 
----
-
 ## About Me
 - 🎉 I mainly focused on **Backend Web Development** using `RESTful APIs` with `CRUD` method.
 - 👀 I’m interested in **Artificial Intelligence**, **Software/Applications**, and **Machine Learning**.
 - 🌱 I’m currently learning **ReactJS**.
 - ✨ I'm eager to collaborate on something intriguing and innovative.
-
----
 
 ## Languages/Frameworks
 
@@ -25,8 +21,6 @@ Fostering creativity and exploring innovative methods through programming while 
 
 </div>
 
----
-
 ## Tools/Services Used
 
 <div align="center">
@@ -34,8 +28,6 @@ Fostering creativity and exploring innovative methods through programming while 
 ![Tools Or Services](https://skillicons.dev/icons?i=git,npm,dotnet,androidstudio,visualstudio,vscode,netlify,vercel)
 
 </div>
-
----
 
 ## My Top Languages Used
 
