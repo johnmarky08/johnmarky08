@@ -1,22 +1,51 @@
-<h1 align="center">👋 Hi, I’m <a href="https://johnmarky-dev.netlify.app">John Marky</a></h1>
-<p align="center">A passionate student who loves Programming more than anything!</p>
+<div align="center">
 
-<div align="center" style="margin-bottom: 10px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg" alt="css3" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="js" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="nodejs" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg" alt="npm" style="max-width: 100%;">
+# 👋 Hi, I’m [John Marky](https://johnmarky-dev.netlify.app)
+
+A passionate student who loves Programming more than anything!
+
 </div>
 
-<hr />
+---
 
-- 👀 I’m interested in **Web Development**, **AI**, **Software/Applications**, **Console Applications** and **REST API**.
+## About Me
+- 🎉 I mainly focused on **Backend Web Development** using `RESTful APIs` with `CRUD` method.
+- 👀 I’m interested in **Artificial Intelligence**, **Software/Applications**, and **Machine Learning**.
 - 🌱 I’m currently learning **ReactJS**.
-- 💞️ I’m looking to collaborate on something new and disrupting.
+- ✨ I'm eager to collaborate on something intriguing and innovative.
 
-<hr />
+---
 
-<div align="center" style="margin-bottom: 10px"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=10" alt="johnmarky08" /></div>
+## Languages/Frameworks
+
+<div align="center">
+
+![HTML](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg)
+![CSS3](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
+![JavaScript](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg)
+![C# .NET](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg)
+![React](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg)
+![Node.js](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg)
+
+</div>
+
+---
+
+## Tools/Services Used
+
+<div align="center">
+
+![NPM](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg)
+![Nuget](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/services/nuget.svg)
+![Android Studio](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/android_studio.svg)
+![Visual Studeo](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/visualstudio.svg)
+![Visual Studio Code](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/visualstudio_code.svg)
+![Powershell](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/powershell.svg)
+![Bash](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/refs/heads/master/svg/dev/tools/bash.svg)
+
+</div>
+
+---
+
+## My Top Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=10)
