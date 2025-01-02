@@ -48,4 +48,9 @@ A passionate student who loves Programming more than anything!
 ---
 
 ## My Top Languages Used
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=10)
+
+</div>
