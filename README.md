@@ -16,7 +16,7 @@ ___"Fostering creativity and exploring innovative methods through programming wh
 
 <div align="center">
 
-![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,nextjs,nodejs,express,mongodb,mysql)
+![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,svelte,nextjs,nodejs,express,laravel,mongodb,mysql,postgres)
 
 
 </div>
