@@ -16,7 +16,7 @@ ___"Fostering creativity and exploring innovative methods through programming wh
 
 <div align="center">
 
-![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,svelte,nextjs,nodejs,express,laravel,mongodb,mysql,postgres)
+![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,svelte,nextjs,nodejs,express,laravel,mongodb,mysql,postgres&perline=7)
 
 
 </div>
@@ -25,7 +25,7 @@ ___"Fostering creativity and exploring innovative methods through programming wh
 
 <div align="center">
 
-![Tools Or Services](https://skillicons.dev/icons?i=git,npm,dotnet,androidstudio,visualstudio,vscode,netlify,vercel)
+![Tools Or Services](https://skillicons.dev/icons?i=git,npm,dotnet,visualstudio,vscode,netlify,vercel)
 
 </div>
 
