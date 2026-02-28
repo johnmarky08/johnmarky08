@@ -16,8 +16,9 @@ ___"Fostering creativity and exploring innovative methods through programming wh
 
 <div align="center">
 
-![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,php,svelte,nextjs,nodejs,express,laravel,mongodb,mysql,postgres&perline=7)
-
+![Languages Or Frameworks](https://skillicons.dev/icons?i=html,css,js,ts,cs,java,php,svelte&perline=8)
+<br />
+![Languages Or Frameworks](https://skillicons.dev/icons?i=nextjs,nodejs,express,laravel,mongodb,mysql,postgres&perline=8)
 
 </div>
 
@@ -25,14 +26,6 @@ ___"Fostering creativity and exploring innovative methods through programming wh
 
 <div align="center">
 
-![Tools Or Services](https://skillicons.dev/icons?i=git,npm,dotnet,visualstudio,vscode,netlify,vercel)
-
-</div>
-
-## My Top Languages Used
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarky08&layout=compact&langs_count=10)
+![Tools Or Services](https://skillicons.dev/icons?i=git,npm,dotnet,visualstudio,vscode,eclipse,netlify,vercel,discord)
 
 </div>
